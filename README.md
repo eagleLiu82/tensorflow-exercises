@@ -1,27 +1,25 @@
-# TensorFlow Exercises
+# TensorFlow 练习
 
-TensorFlow is arugably the most popular deep learning library as of 2017.
+TensorFlow是2017年最受欢迎的深度学习库。
+这个项目旨在帮助那些想要熟悉TensorFlow功能的人。 我专注于将TensorFlow函数与NumPy中的等效函数进行比较，NumPy是标准数值计算库。 我希望这能帮助您快速熟悉TensorFlow。
+基本概要如下，但这不是100％固定的。
 
-This is designed to help those who want to familiarize themselves with TensorFlow functions. Particulary, I focus on comparing TensorFlow functions with the equivalent functions in NumPy, the de facto standard numerical computation library. I hope this will help you get comfortable with TensorFlow quickly.
+* 常量, 序列和随机值 (完成)
+* 图表 (完成)
+* 变量 (完成)
+* 读取数据 (完成)
+* 张量变换 (完成)
+* 数学第一部分 (完成)
+* 数学第二部分 (完成)
+* 数学第三部分 (完成)
+* 字符串 (未完成)
+* 控制流 (完成)
+* 图像 (未完成)
+* 稀疏张量 (完成)
+* 神经网络第一部分 (完成)
+* 神经网络第二部分 (完成)
+* 神经网络第三部分 (未完成)
+* Seq2Seq (完成)
+* 音频处理 (完成)
 
-The basic outline will be as follows, though this is not 100% fixed.
-
-* Constants, Sequences, and Random Values (DONE)
-* Graphs (DONE)
-* Variables (DONE)
-* Reading Data (DONE)
-* Tensor Transformations (DONE)
-* Math Part 1 (DONE)
-* Math Part 2 (DONE)
-* Math Part 3 (DONE)
-* Strings (WIP)
-* Control Flow (DONE)
-* Images (WIP)
-* Sparse Tensors (DONE)
-* Neural Network Part 1 (DONE)
-* Neural Network Part 2 (DONE)
-* Neural Network Part 3 (WIP)
-* Seq2Seq (DONE)
-* Audio_Processing (DONE)
-
-Enjoy!
+享受它吧!
